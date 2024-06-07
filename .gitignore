@@ -1,0 +1,9 @@
+# package directories
+node_modules
+
+# Other stuff
+  .DS_Store
+  *.log
+
+# Environment variables
+.env
